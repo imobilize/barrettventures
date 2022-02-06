@@ -8,7 +8,7 @@
 ######################### site variables ##############################
 # customize your color and font from here.
 [params.variables]
-primary_color = "#0AA8A7"
+primary_color = "#dfaa0a;"
 text_color = "#777"
 text_color_dark = "#222"
 body_color = "#fff"
@@ -42,7 +42,11 @@ link = "css/global.css"
 [[params.styles.css]]
 link = "css/post-13.css"
 [[params.styles.css]]
+link = "css/post-81.css"
+[[params.styles.css]]
 link = "css/post-218.css"
+[[params.styles.css]]
+link = "css/post-271.css"
 [[params.styles.css]]
 link = "css/style.min.css"
 [[params.styles.css]]

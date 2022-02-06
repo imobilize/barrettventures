@@ -5,13 +5,13 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Blog"
-url = "blog"
+name = "Sell My Business"
+url = "sell-my-business"
 weight = 2
 
 [[main]]
-name = "Pricing"
-url = "pricing"
+name = "About Us"
+url = "about-us"
 weight = 3
 
 [[main]]
@@ -20,8 +20,8 @@ url = "contact"
 weight = 4
 
 [[main]]
-name = "FAQ"
-url = "faq"
+name = "Blog"
+url = "blog"
 weight = 5
 
 # footer menu left
@@ -30,12 +30,12 @@ name = "About Us"
 url = "#"
 
 [[footer_left]]
-name = "Quick Start"
-url = "#"
+name = "Privacy Policy"
+url = "privacy-notice"
 
 [[footer_left]]
-name = "Pricing"
-url = "pricing"
+name = "Contact"
+url = "contact"
 
 
 # footer menu middle

@@ -24,6 +24,29 @@ primary_font = "Lato:wght@400"
 primary_font_type = "sans-serif" # [serif/sans-serif]
 icon_font = "Font Awesome 5 Free"
 
+# Regular CSS 
+[[params.styles.css]]
+link = "css/bootstrap.min.css"
+[[params.styles.css]]
+link = "css/animations.min.css"
+[[params.styles.css]]
+link = "css/default.css"
+[[params.styles.css]]
+link = "css/elementor-icons.min.css"
+[[params.styles.css]]
+link = "css/frontend.min.css"
+[[params.styles.css]]
+link = "css/frontend-legacy.min.css"
+[[params.styles.css]]
+link = "css/global.css"
+[[params.styles.css]]
+link = "css/post-13.css"
+[[params.styles.css]]
+link = "css/post-218.css"
+[[params.styles.css]]
+link = "css/style.min.css"
+[[params.styles.css]]
+link = "css/styles.css"
 
 ############################# Plugins ##############################
 # CSS Plugins

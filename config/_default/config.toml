@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org/"
-title = "Bigspring Light"
+baseURL = "https://barrettventures.co.uk/"
+title = "Sell Your Business - Barrett Ventures"
 theme = "vex-hugo-master"
 # post pagination
 paginate = "3"

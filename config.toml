@@ -3,6 +3,8 @@
 # The presence of this file is for compatibility with Blogdown and Forestry.
 #
 # The actual configuration files are stored in the `config/_default/` folder.
+[params]
+dateFormat = "2 January 2006"
 
 
 ######################### site variables ##############################
@@ -76,3 +78,24 @@ link = "plugins/slick/slick.min.js"
 # [[params.plugins.js]]
 # link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/js/all.min.js"
 # attributes = "crossorigin='anonymous' defer='defer' data-search-pseudo-elements"
+
+############################# social site ########################
+[[social]]
+title = "facebook"
+icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[social]]
+title = "twitter"
+icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[social]]
+title = "skype"
+icon = "fab fa-skype" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[social]]
+title = "linkedin"
+icon = "fab fa-linkedin" # themify icon : https://themify.me/themify-icons
+link = "#"

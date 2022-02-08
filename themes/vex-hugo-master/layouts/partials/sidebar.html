@@ -1,0 +1,13 @@
+<section class="recent-posts row card component">
+  <div class="card-header">
+    <h3 class="card-title">Related Content</h3>
+  </div>
+  <div class="card-body">
+        <ul class="list-unstyled mb-0">
+          {{ $related :=  .Site.RegularPages.Related . }}
+	        {{ range first 5 $related }}
+              <li><h5><a href="{{ .RelPermalink }}">{{ .Title }}</a></h5></li>
+          {{ end }}
+      </ul>
+  </div>
+</section>

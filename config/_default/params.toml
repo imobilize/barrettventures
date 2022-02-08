@@ -4,8 +4,8 @@ secondary_logo = "images/transparent-logo.png"
 
 logo_width = "130px"
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
-author = "Themefisher"
+description = "Sell your business. We will buy it from you to continue it's growth"
+author = "Andre Barrett"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io

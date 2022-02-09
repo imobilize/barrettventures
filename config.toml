@@ -28,8 +28,6 @@ icon_font = "Font Awesome 5 Free"
 
 # Regular CSS 
 [[params.styles.css]]
-link = "css/bootstrap.min.css"
-[[params.styles.css]]
 link = "css/animations.min.css"
 [[params.styles.css]]
 link = "css/default.css"

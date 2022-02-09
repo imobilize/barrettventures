@@ -2,6 +2,7 @@
 baseURL = "https://barrettventures.co.uk/"
 title = "Sell Your Business - Barrett Ventures"
 theme = "vex-hugo-master"
+
 # post pagination
 paginate = "3"
 # post excerpt
@@ -9,7 +10,7 @@ summaryLength = "15"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # google analytics
-googleAnalytics = "" # example : UA-123-45
+googleAnalytics = "UA-168096882-1" # example : UA-123-45
 # unsafe html
 [markup.goldmark.renderer]
 unsafe = true
@@ -18,3 +19,6 @@ unsafe = true
 blog = "/:title"
 landingpages = "/:title"
 mainpages = "/:title"
+
+[params]
+header = "Barrett Ventures"

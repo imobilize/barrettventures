@@ -4,8 +4,8 @@ date: 2021-04-18T10:07:21+06:00
 # post image
 summary: Tibor is a technology-focused executive specializing in private equity, and growth capital scaled businesses going through digital transformation.
 designation: Non Exec Director
-image: "images/teams/Tibor-dudjik.jpg"
-images: ["images/teams/Tibor-dudjik.jpg"]
+image: "images/teams/tibor-dudjik.png"
+images: ["images/teams/tibor-dudjik.png"]
 description: "Tibor Dudjik's Expertise in Technology and Digital Transformation"
 keywords: ["Technology", "Digital Transformation", "Private Equity"]
 # post draft

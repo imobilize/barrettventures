@@ -4,8 +4,8 @@ date: 2021-04-18T10:07:21+06:00
 # post image
 summary: Yvonne is a Chartered Accountant with over 27 years of experience in Financial Management, Operations and Corporate Finance across diverse industries.
 designation: Non Exec Director
-image: "images/teams/Yvonne-venter.jpg"
-images: ["images/teams/Yvonne-venter.jpg"]
+image: "images/teams/Yvonne.png"
+images: ["images/teams/Yvonne.png"]
 description: "Yvonne Venter's Expertise in Financial Management and Corporate Finance"
 keywords: ["Financial Management", "Corporate Finance", "Mergers and Acquisitions"]
 # post draft

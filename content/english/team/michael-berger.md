@@ -4,8 +4,8 @@ date: 2021-04-18T10:07:21+06:00
 # post image
 summary: Michael is an accomplished Investment and Portfolio Director with over 15 years of experience in financial services and M&A across diverse industries.
 designation: Non Exec Director
-image: "images/teams/Michael-berger.jpg"
-images: ["images/teams/Michael-berger.jpg"]
+image: "images/teams/michael.jpg"
+images: ["images/teams/michael.jpg"]
 description: "Michael Berger's Expertise in Investment and Portfolio Management"
 keywords: ["Investment", "Portfolio Management", "Mergers and Acquisitions"]
 # post draft

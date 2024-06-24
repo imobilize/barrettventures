@@ -311,7 +311,7 @@ td,th {text-align: center;border: 1px solid #8d99ae;padding: 5px 0 5px 0px;}
 .team-home .team-collage .collage-img-wrapper {
     flex: 1 1 25%; /* Ensure each image takes up 25% width */
     max-width: 40%; /* Ensure each image takes up 25% width */
-    height: auto;
+    height: 180px;
     overflow: hidden; /* Ensure the image does not overflow */
     text-decoration: none; /* Remove underline from links */
 }

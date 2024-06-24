@@ -4,8 +4,8 @@ date: 2021-04-18T10:07:21+06:00
 # post image
 summary: Dr. Jan-Philipp is a highly skilled Corporate Finance professional with over 14 years in Private Equity and Private Client Advisory.
 designation: Non Exec Director
-image: "images/teams/Jan-philipp-matthews.jpg"
-images: ["images/teams/Jan-philipp-matthews.jpg"]
+image: "images/teams/jan-philipp.jpeg"
+images: ["images/teams/jjan-philipp.jpeg"]
 description: "Dr. Jan-Philipp's Expertise in Corporate Finance and Private Equity"
 keywords: ["Corporate Finance", "Private Equity", "Mergers and Acquisitions"]
 # post draft

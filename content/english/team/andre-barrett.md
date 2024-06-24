@@ -4,8 +4,8 @@ date: 2021-04-18T10:07:21+06:00
 # post image
 summary: Andre is an experienced Entrepreneur, Investor, and Digital Product Expert. He currently runs Barrett Ventures which includes a portfolio of companies acquired through M&A transactions
 designation: Director
-image: "images/teams/Andre-barrett.jpg"
-images: ["images/teams/Andre-barrett.jpg"]
+image: "images/teams/andre-barrett-2.png"
+images: ["images/teams/andre-barrett-2.png"]
 description: "How Selling Your Business Affects Your Employees with TUPE"
 keywords: ["TUPE", "Employment Law", "Selling Your Business"]
 # post draft

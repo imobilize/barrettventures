@@ -302,3 +302,38 @@ td,th {text-align: center;border: 1px solid #8d99ae;padding: 5px 0 5px 0px;}
     .error-page{padding: 0 0 120px;}
     .error-page .error-title{font-size: 80px;}
 }
+
+.team-home .team-collage {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px; /* Adjust spacing between images as needed */
+}
+.team-home .team-collage .collage-img-wrapper {
+    flex: 1 1 25%; /* Ensure each image takes up 25% width */
+    max-width: 40%; /* Ensure each image takes up 25% width */
+    height: 180px;
+    overflow: hidden; /* Ensure the image does not overflow */
+    text-decoration: none; /* Remove underline from links */
+}
+.team-home .team-collage .collage-img-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+    transition: transform 0.3s ease; /* Add transition for the transform effect */
+}
+.team-home .team-collage .collage-img-wrapper:hover img {
+    transform: scale(1.1); /* Scale up the image on hover */
+}
+.team-home .team-info {
+    padding: 20px;
+}
+@media (max-width: 767.98px) {
+    .team-home .team-info {
+        text-align: center;
+    }
+    .team-home .team-collage .collage-img-wrapper {
+        flex: 1 1 calc(50% - 10px); /* Adjust the number of images per row for smaller screens */
+        max-width: calc(50% - 10px); /* Adjust the number of images per row for smaller screens */
+    }
+}

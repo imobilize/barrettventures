@@ -1,3 +1,4 @@
+
 <div data-elementor-type="wp-post" data-elementor-id="13" class="elementor elementor-13"
     data-elementor-settings="[]">
     <div class="elementor-inner">
@@ -602,6 +603,35 @@
                 </div>
             </section>
 
+<!-- Latest team -->
+<section class="section team-home" id="team">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-12 pb-5">
+                <div class="section-heading text-center">
+                    <h2 class="text-lg mb-3">Meet Our Team</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row align-items-center">
+            <div class="col-lg-6 col-md-12">
+                <div class="team-collage">
+                    {{ range first 6 (where .Site.RegularPages "Section" "team") }}
+                    <a href="{{ .RelPermalink }}" class="collage-img-wrapper w-25">
+                        <img class="collage-img" src="{{ with .Params.image }}{{ . | relURL }}{{ end }}" alt="{{.Title}} image" />
+                    </a>
+                    {{ end }}
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-12">
+                <div class="team-info text-center text-lg-start">
+                    <p class="mb-4">Our team is composed of dedicated professionals who are passionate about their work. We strive to deliver the best results and ensure the success of our projects.</p>
+                    <a href="/team" class="btn btn-primary btn-lg">Meet the Team</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 <!-- Latest blog -->
 <section class="section blog-home" id="blog">
@@ -633,6 +663,8 @@
     </div>
   </div>
 </section>
+
+
 
 
             <section

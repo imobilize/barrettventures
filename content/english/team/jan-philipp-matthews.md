@@ -12,14 +12,12 @@ keywords: ["Corporate Finance", "Private Equity", "Mergers and Acquisitions"]
 draft: false
 ---
 
-- Dr. Jan-Philipp is a highly skilled Corporate Finance professional. He has over 14 years in Private Equity and Private Client Advisory covering the Media, Marketing, Healthcare and Technology industries.
+- Dr. Jan-Philipp is a highly skilled Corporate Finance professional. He has over 14 years in Private Equity and M&A Advisory covering multiple industries with a special focus in the Media, Marketing, and Technology industries.
 
-- During his Corporate Finance roles, Jan-Philipp has been head or co-head of multiple transactions (sell-side, buy-side, financing, valuation). He has had involvement in the whole M&A process including client acquisition, preparation of marketing materials and data room, integrated financial planning, research and contact of potential buyers, management presentations and negotiations until signing/closing.
+- During his career, Jan-Philipp has led multiple transactions on the sell-side and buy-side as well as advised on valuations, financings, restructurings and buy-and-build strategies. He is particularly involved in small cap and lower mid cap deals, including various cross-border transactions with parties in the USA, Europe, and Asia.
 
-- He has experience in supporting a deal team with a large add-on-acquisition to their portfolio company in the healthcare industry (deal volume: >25m EUR). His tasks included modification of the Leveraged Buy out-model, creation of investment memorandums, market and competitor studies, due diligence and execution of relevant analysis.
+- He is the Co-Founder and Managing Partner of the German Corporate Finance boutique Lama Partners. In his role, he leads the finance/transaction team and is responsible for Investor relations.
 
-- He is the Founder and Managing Partner of a Corporate Finance Advisory firm in Germany called Lama Partners. In his role, he leads the finance/transaction team and is responsible for Investor relations.
-
-- As a corporate advisor, he supports clients with their M&A sell-side and buy-side transactions including cross-border transactions with buyers from France and USA. He also does private debt, restructuring, buy-and-build and exit-readiness advisory.
+- An investor himself, Jan-Philipp also holds stakes in several business in the FMCG and business services industries and has also taken on operating roles as CFO and CEO in some portfolio businesses.
 
 - Jan-Philipp holds a CFA (Chartered Financial Analyst) designation and has a Doctorate in Corporate Finance.
